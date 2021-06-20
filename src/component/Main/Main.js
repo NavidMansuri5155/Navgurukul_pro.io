@@ -303,10 +303,11 @@ export default function Album() {
                                 />
                                 <CardContent className={classes.cardContent}>
                                     <Typography gutterBottom variant="h5" component="h2">
-                                        Heading
+                                        SHABID KHAN
                                         </Typography>
                                     <Typography>
-                                        This is a media card. You can use this section to describe the content.
+                                        He has very good knowledge of back end, And Python language understands it very well. 
+                                        and this is doing machine learning in python..
                                         </Typography>
                                 </CardContent>
                                 <CardActions>
